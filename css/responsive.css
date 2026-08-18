@@ -1,0 +1,240 @@
+@media (min-width:640px) {
+    :root {
+        --gutter: 28px
+    }
+
+    .header-inner {
+        height: 96px
+    }
+
+    .header-logo {
+        width: 120px
+    }
+
+    .hero {
+        padding-top: 56px
+    }
+
+    .hero-headline {
+        font-size: 34px
+    }
+
+    .hero-sub {
+        font-size: 17px
+    }
+
+    .hero-image-wrap {
+        max-width: 520px;
+        margin: -110px auto 0;
+    }
+
+    .hero-caption {
+        font-size: 17px;
+        margin-top: 22px
+    }
+
+    .hero-pill-wrap {
+        max-width: 520px;
+        margin: 18px auto 0
+    }
+
+    .hero-pill {
+        font-size: 15px
+    }
+
+    .seal-section,
+    .products,
+    .advantages {
+        padding-top: 72px
+    }
+
+    .simple-heading {
+        font-size: 34px
+    }
+
+    .section-sub {
+        font-size: 16px
+    }
+
+    .video-wrap {
+        margin-top: 34px
+    }
+
+    .video-card {
+        max-width: 380px
+    }
+
+    .benefits-grid {
+        gap: 30px
+    }
+
+    .benefit-icon {
+        height: 56px
+    }
+
+    .benefit-card h3 {
+        font-size: 25px
+    }
+
+    .group-label {
+        margin-top: 54px
+    }
+
+    .product-grid {
+        gap: 18px
+    }
+
+    .product-card figcaption {
+        font-size: 12px;
+        padding: 7px 18px
+    }
+
+    .one-machine {
+        margin-top: 72px
+    }
+
+    .one-machine .compact-heading,
+    .product-uses .compact-heading,
+    .social-proof .compact-heading {
+        font-size: 30px
+    }
+
+    .compact-sub {
+        font-size: 15px
+    }
+
+    .one-machine-image {
+        max-width: 520px;
+        margin: 30px auto 0
+    }
+
+    .product-uses {
+        margin-top: 56px;
+        padding-bottom: 56px
+    }
+
+    .uses-list {
+        max-width: 480px;
+        margin: 26px auto 0;
+        gap: 14px
+    }
+
+    .uses-list li {
+        font-size: 16px
+    }
+
+    .warning-pill {
+        max-width: 480px
+    }
+
+    .warning-pill span:last-child {
+        font-size: 14px
+    }
+
+    .uses-scene {
+        max-width: 480px;
+        margin: 34px auto 0
+    }
+
+    .section-heading {
+        font-size: 40px
+    }
+
+    .advantage-cards {
+        margin-top: 46px;
+        gap: 52px
+    }
+
+    .advantage-card {
+        max-width: 420px
+    }
+
+    .advantage-card figcaption {
+        font-size: 15px;
+        padding: 12px 26px
+    }
+
+    .comparison,
+    .faq,
+    .order-steps {
+        padding-top: 72px
+    }
+
+    .compare-table {
+        margin-top: 40px
+    }
+
+    .warranty {
+        margin-top: 56px
+    }
+
+    .warranty-card {
+        padding: 48px 40px
+    }
+
+    .social-proof {
+        padding-top: 60px
+    }
+
+    .promo {
+        margin-top: 60px
+    }
+
+    .promo-card {
+        padding: 32px
+    }
+
+    .promo-price {
+        font-size: 40px
+    }
+
+    .form-card {
+        padding: 46px 44px 40px
+    }
+
+    .form-card>h2 {
+        font-size: 40px
+    }
+
+    .social-footer {
+        padding: 80px 0
+    }
+
+    .footer {
+        padding: 70px 0
+    }
+}
+
+@media (min-width:1024px) {
+    :root {
+        --gutter: 32px
+    }
+
+    .header-inner {
+        height: 115px
+    }
+
+    .header-logo {
+        width: 139px
+    }
+
+    .hero-headline {
+        font-size: 44px
+    }
+
+    .hero-image-wrap {
+        max-width: 620px
+    }
+
+    .hero-pill-wrap {
+        max-width: 620px
+    }
+
+    .bottle-grid {
+        grid-template-columns: repeat(4, 1fr)
+    }
+
+    .section-heading {
+        font-size: 49px
+    }
+}
