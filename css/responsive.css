@@ -25,6 +25,8 @@
 
     .hero-image-wrap {
         max-width: 620px;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .hero-caption {
@@ -104,6 +106,8 @@
 
     .one-machine-image {
         max-width: 620px;
+        margin-left: auto;
+        margin-right: auto
     }
 
     .product-uses {
