@@ -424,7 +424,8 @@ a {
 
 .one-machine {
     margin-top: 52px;
-    text-align: center
+    text-align: center;
+    width: 100%;
 }
 
 .one-machine .compact-heading,
