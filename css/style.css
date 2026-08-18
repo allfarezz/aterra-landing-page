@@ -449,6 +449,8 @@ a {
 .one-machine-image {
     width: 100%;
     margin-top: 22px;
+    position: relative;
+    z-index: 1;
 }
 
 .one-machine-image img {
